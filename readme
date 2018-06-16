@@ -1,0 +1,12 @@
+This is a rough GUI that uses Linux CLI version of SUNIT.
+It provides below real-time information on GUI:
+*  Case list
+*  Case execution progress (which case is being run)
+*  per case and total time cost
+*  Executed cases¡¯ result(PASS/FAIL)
+*  Run time log(console)
+
+note: this is a personal trial and also for personal usage during Nokia Surepay automation test.
+
+Liu Hongwei <hong_wei.hl.liu@nokia-sbell.com>
+2018.6.16
